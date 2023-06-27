@@ -17,4 +17,5 @@ The memory allocation at multiple time instants will be output to the console.
 * Contiguous Allocation - Dynamic Partitioning `dynamic_partitioning.js`
 
 ## File System Implementation
-[] To Do
+A hierarchial file system along with a simulated memory for allocation/de-allocation
+of files. Documentation can be found at the top of the `file_system.js` file. 
